@@ -1,0 +1,7 @@
+I:/VScode_projects/disk_tool/build/CMakeFiles/edit_cache.dir
+I:/VScode_projects/disk_tool/build/CMakeFiles/rebuild_cache.dir
+I:/VScode_projects/disk_tool/build/src/CMakeFiles/edit_cache.dir
+I:/VScode_projects/disk_tool/build/src/CMakeFiles/rebuild_cache.dir
+I:/VScode_projects/disk_tool/build/app/CMakeFiles/disktool.dir
+I:/VScode_projects/disk_tool/build/app/CMakeFiles/edit_cache.dir
+I:/VScode_projects/disk_tool/build/app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+F:\CMake3.19.5\bin\cmake.exe -E rm -f CMakeFiles\disktool.dir/objects.a
+F:\Vs_Code\mingw64\bin\ar.exe cr CMakeFiles\disktool.dir/objects.a @CMakeFiles\disktool.dir\objects1.rsp
+F:\Vs_Code\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\disktool.dir/objects.a -Wl,--no-whole-archive -o ..\..\bin\disktool.exe -Wl,--out-implib,..\..\bin\libdisktool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\disktool.dir\linklibs.rsp
